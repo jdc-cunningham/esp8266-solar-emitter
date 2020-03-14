@@ -1,10 +1,10 @@
 # esp8266 solar emitter
 This is a project idea I had to power an ESP01 with a bank of capacitors charged by solar cells and a DC to DC convert, it does work.
 
-![first-attempt](./images/first-attempt.PNG)
+![first-attempt](./images/3d-printed-body-first-version.jpg)
 
 ## About
-Currenlty all this does aside from working physically, is just emit an `HTTP POST` request which is just "proof that it works". That is... the ESP is being kept alive by the sun. But the ESP01 has 4 analog pins potentially so it's possible I'll put them to use. At this time my next goal is to design/print out a body for this so it looks better/and can fall since my cat just steps on it.
+Currenlty all this does aside from working physically, is just emit an `HTTP POST` request which is just "proof that it works". That is... the ESP is being kept alive by the sun. But the ESP01 has 4 analog pins potentially so it's possible I'll put them to use.
 
 More details [here](https://medium.com/@jdc_cunningham/solar-cell-cap-bank-emitter-with-esp8266-esp01-db9c5df32314)
 
