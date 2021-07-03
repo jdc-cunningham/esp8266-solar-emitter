@@ -1,3 +1,6 @@
+# NOTE:
+The main issue with this project is the startup current of the voltage step down device... it is hard to overcome. I had to short/jump the capacitors to overcome it/get the converter to start working... may consider using a supercap instead with a linear 3.3V regulator. Not saying that will work but it's less parts and less internal current to overcome.
+
 # esp8266 solar emitter
 This is a project idea I had to power an ESP01 with a bank of capacitors charged by solar cells and a DC to DC convert, it does work.
 
